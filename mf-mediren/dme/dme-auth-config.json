@@ -1,0 +1,10 @@
+{
+   "name": "Auth",
+   "mf": "demf-auth",
+   "api": "https://mashups-mediren.eng.it/api",
+   "keycloak": {
+      "url": "https://keycloak-mediren.eng.it",
+      "clientId": "dme-v2-app",
+      "enabled": false
+   }
+}

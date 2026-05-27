@@ -1,0 +1,5 @@
+{
+  "name": "Auth",
+  "mf": "demf-auth",
+  "api": "https://dtm-mediren.eng.it/api/v1"
+}
