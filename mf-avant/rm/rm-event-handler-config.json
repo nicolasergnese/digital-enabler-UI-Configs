@@ -1,4 +1,5 @@
 {
-  "mf": "Event Handler",
-  "api": "//localhost:8080/api/v1"
+  "name": "Event Handler",
+  "mf": "demf-event-handler",
+  "api":"//localhost:8080/api/v1"
 }
