@@ -1,8 +1,9 @@
 {
-  "mf": "Sidebar",
+  "name": "Sidebar",
+  "mf": "demf-sidebar",
   "api": "https://kpim-middleware-api.regions4climate.digital-enabler.eng.it/api/v1",
   "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
-  "jsonTools": "https://raw.githubusercontent.com/digital-enabler/UI-Configs/main/mf-regions4climate/common/services.json",
+  "jsonTools": "https://raw.githubusercontent.com/digital-enabler/UI-Configs/main/mf-avant/common/services.json",
   "links": [
     {
       "title": "labels.kpis",
@@ -23,6 +24,6 @@
     "enabled": false
   },
   "logo": "/kpim/KpiManager.svg",
-  "miniLogo": "/de-mini.svg",
+  "miniLogo": "/commons/de-mini.svg",
   "showServicesMenu": false
 }
