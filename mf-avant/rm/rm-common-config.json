@@ -5,7 +5,7 @@
     {
       "type": "kpi",
       "name": "KPI Manager",
-      "icon": "mdi-guage"
+      "icon": "mdi-gauge"
     },
     {
       "type": "flow",
