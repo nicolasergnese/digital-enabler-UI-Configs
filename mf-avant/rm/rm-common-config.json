@@ -1,7 +1,12 @@
 {
-  "name":"RuleManager",
-  "mf":"demf-rule-manager",
+  "name": "RuleManager",
+  "mf": "demf-rule-manager",
   "assets": [
+    {
+      "type": "kpi",
+      "name": "KPI",
+      "icon": "mdi-chart-line"
+    },
     {
       "type": "flow",
       "name": "Mashup Flow",
