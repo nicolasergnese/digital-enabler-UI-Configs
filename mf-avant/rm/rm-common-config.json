@@ -1,8 +1,8 @@
 {
-  "name": "RuleManager",
-  "mf": "demf-rule-manager",
+  "name":"RuleManager",
+  "mf":"demf-rule-manager",
   "assets": [
-    {
+     {
       "type": "kpi",
       "name": "KPI Manager",
       "icon": "mdi-gauge"
